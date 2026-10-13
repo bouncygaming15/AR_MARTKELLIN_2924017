@@ -1,0 +1,2 @@
+Assets\scripts\RotateObject.cs(6,70): error CS1002: ; expected
+
